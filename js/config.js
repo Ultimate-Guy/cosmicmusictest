@@ -1,7 +1,7 @@
 window.COSMIC_MUSIC_CONFIG = {
-  // Add your Jamendo API client ID here when you are ready to connect the catalog.
-  // Keep this file free of private tokens or server secrets.
-  jamendoClientId: "",
+  // Jamendo publishes this client ID for read-API testing.
+  // Replace it with your own Jamendo application client ID for the real deployment.
+  jamendoClientId: "709fa152",
   apiBase: "https://api.jamendo.com/v3.0",
   defaultLimit: 18
 };
